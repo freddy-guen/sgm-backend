@@ -25,5 +25,5 @@ Différents endpoints sont exposés afin de gérer les differentes fonctionnalit
 
 ## GitLab du projet :
 
-[https://gitlab.apps.cne1opsin1clu01.cnam-ens.atos.net/ens/dmp/api-dmp-backend](https://gitlab.apps.cne1opsin1clu01.cnam-ens.atos.net/ens/dmp/api-dmp-backend)
+[https://github.com/freddy-guen/sgm-backend](https://github.com/freddy-guen/sgm-backend)
 
